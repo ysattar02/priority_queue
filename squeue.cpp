@@ -1,4 +1,3 @@
-// CMSC 341 - Spring 2022 - Project 3
 #include "squeue.h"
 SQueue::SQueue(prifn_t priFn, HEAPTYPE heapType)
         :m_heap(nullptr), m_size(0), m_priorFunc(priFn), m_heapType(heapType)
