@@ -1,7 +1,8 @@
-// CMSC 341 - Spring 2022 - Project 3
 #include "squeue.h"
 #include <vector>
 #include <algorithm>
+#include <string>
+#include <stdlib>
 #include <random>
 // the followings are sample priority functions to be used by SQueue class
 // users can define their own priority functions
