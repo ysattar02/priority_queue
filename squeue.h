@@ -1,4 +1,3 @@
-// CMSC 341 - Spring 2022 - Project 3
 #ifndef SQUEUE_H
 #define SQUEUE_H
 #include <stdexcept>
